@@ -7,9 +7,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liperdev&bg_color=000000&color=04D9FF&line=04D9FF&point=04D9FFc&area=ffffff&e&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Liperdev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
