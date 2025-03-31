@@ -5,5 +5,5 @@ Desenvolvedor back-end com foco na linguagem Java, amante de jogos e tutor de 4 
 - Java, Python, HTML e CSS.
 
 ## Contato:
-Email: felipe.devsoftwareengineer@gmail.com
+Email: felipe.devsoftwareengineer@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/felipe-s-campagnol-8490122b1/
