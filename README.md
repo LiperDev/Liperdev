@@ -4,6 +4,9 @@ Desenvolvedor back-end com foco na linguagem Java, amante de jogos e tutor de 4 
 ## 💡 Tecnologias utilizadas
 - Java, Python, HTML e CSS.
 
-## Contato:
+## 🔨 Ferramentas utilizadas
+- Miro e Figma
+
+## 📲 Contato:
 Email: felipe.devsoftwareengineer@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/felipe-s-campagnol-8490122b1/
