@@ -8,5 +8,5 @@ Desenvolvedor back-end com foco na linguagem Java, amante de jogos e tutor de 4 
 - Miro e Figma
 
 ## 📲 Contato:
-Email: felipe.devsoftwareengineer@gmail.com <br>
+Email: felipe.devsoftwareengineer@gmail.com <br> <br>
 Linkedin: https://www.linkedin.com/in/felipe-s-campagnol-8490122b1/
