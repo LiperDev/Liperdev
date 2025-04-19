@@ -1,5 +1,5 @@
 ## 💻 Olá, meu nome é Felipe!
-Felipe é desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, tem como principal objetivo expandir seus horizontes e se manter em constante evolução profissional. Atualmente, reside no estado do Rio Grande do Sul, onde é tutor de 4 gatinhos e vive a base de chimarrão.
+Felipe é <b>desenvolvedor back-end</b> e estudante de Análise e Desenvolvimento de Sistemas. Apaixonado por tecnologia, busca constantemente expandir seus horizontes e evoluir profissionalmente. Atualmente, vive no Rio Grande do Sul, onde é tutor de quatro gatinhos e sobrevive à base de chimarrão.
 
 ## 💡 Tecnologias utilizadas
 - Java, Python, HTML e CSS.
